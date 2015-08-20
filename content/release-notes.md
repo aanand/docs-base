@@ -36,7 +36,7 @@ GitHub](https://github.com/docker/swarm/releases/tag/v0.4.0).
 
 For a complete list of compose patches, fixes, and other improvements, see the
 You'll also find <a
-href="https://github.com/docker/compose/blob/master/CHANGES.md"> a changelog in
+href="https://github.com/docker/compose/blob/1.4.0/CHANGES.md"> a changelog in
 the project repository</a>. The project also makes a [set of release
 notes](https://github.com/docker/compose/releases/tag/1.4.0) on the project.
 
